@@ -1,0 +1,6 @@
+{
+  // Static site: Cloudflare serves the files in ./public (index.html at /). No build step.
+  "name": "flint-and-copper",
+  "compatibility_date": "2025-09-01",
+  "assets": { "directory": "./public" }
+}
